@@ -67,4 +67,4 @@ Standard Arrhenius parameters from literature (Ranzi et al., Di Blasi, Broido-Sh
 
 1. Install dependencies: `pip install numpy scipy matplotlib streamlit`
 2. Run the main solver: `python src/pyrolysis_model.py`
-3. Launch dashboard: `streamlit run src/dashboard.py`
+3. Launch dashboard: `streamlit run src/dashboard.py`"# biomass-pyrolisis-fixed-bed-reactor" 
